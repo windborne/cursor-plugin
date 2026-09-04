@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "windborne-weather": {
+      "url": "https://weather-mcp.windbornesystems.com/mcp",
+      "auth": {
+        "CLIENT_ID": "nlREreGUGMX0Mlr45_Khey6djU8oAQrAEoCiG0Ikh9k",
+        "scopes": ["weather:apps"]
+      }
+    }
+  }
+}

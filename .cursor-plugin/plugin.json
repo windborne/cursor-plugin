@@ -1,0 +1,19 @@
+{
+  "name": "windborne",
+  "displayName": "Weather by WindBorne",
+  "version": "1.0.0",
+  "description": "World's most accurate forecasts & insights, powered by WeatherMesh AI & Atlas balloons.",
+  "author": {
+    "name": "WindBorne Systems"
+  },
+  "homepage": "https://windbornesystems.com",
+  "repository": "https://github.com/windborne/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "windborne",
+    "weather by windborne",
+    "weathermesh"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": ".mcp.json"
+}

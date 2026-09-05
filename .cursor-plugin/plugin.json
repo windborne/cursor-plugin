@@ -2,6 +2,9 @@
   "name": "windborne",
   "displayName": "Weather by WindBorne",
   "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
   "description": "World's most accurate forecasts & insights, powered by WeatherMesh AI & Atlas balloons.",
   "author": {
     "name": "WindBorne Systems"
@@ -13,6 +16,12 @@
     "windborne",
     "weather by windborne",
     "weathermesh"
+  ],
+  "category": "integrations",
+  "tags": [
+    "weather",
+    "forecast",
+    "mcp"
   ],
   "logo": "assets/logo.png",
   "mcpServers": ".mcp.json"
